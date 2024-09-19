@@ -50,13 +50,4 @@ This repository is for the Datafun-04-Jupyter project, which involves setting up
 ## Next Steps
 - Add project dependencies to `requirements.txt`.
 - Continue development and commit changes regularly.
-## How to Install and Run the Project
-
-This section describes the steps to set up the project environment, install dependencies, and start Jupyter Lab.
-
-### 1. **Set Up the Virtual Environment**
-- Create a virtual environment in the project folder:
-  ```bash
-  python3 -m venv .venv
-
 
